@@ -1,0 +1,20 @@
+﻿  main.cpp
+c:\users\dmitry\desktop\resolution\functions.h(164): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitry\desktop\resolution\functions.h(172): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitry\desktop\resolution\functions.h(210): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitry\desktop\resolution\functions.h(213): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitry\desktop\resolution\functions.h(272): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitry\desktop\resolution\functions.h(280): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitry\desktop\resolution\functions.h(291): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitry\desktop\resolution\functions.h(310): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitry\desktop\resolution\functions.h(499): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitry\desktop\resolution\functions.h(515): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitry\desktop\resolution\functions.h(524): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitry\desktop\resolution\functions.h(559): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitry\desktop\resolution\functions.h(574): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  2 of 450 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Resolution.vcxproj -> C:\Users\Dmitry\Desktop\Resolution\Release\Resolution.exe

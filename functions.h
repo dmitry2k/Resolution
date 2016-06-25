@@ -531,7 +531,7 @@ bool Solution(vector<Conjunct*> kb)
 							cout << "New conjunct: ";
 							c_new->Print();
 							cout << endl << endl << endl << endl;
-							system("pause");
+							//system("pause");
 							//*/
 							kb.push_back(c_new);
 						}
@@ -581,7 +581,7 @@ bool Solution(vector<Conjunct*> kb)
 								cout << "New conjunct: ";
 								c_new->Print();
 								cout << endl << endl << endl << endl;
-								system("pause");
+								//system("pause");
 								//*/
 								kb.push_back(c_new);
 								if (c_new->Empty())
